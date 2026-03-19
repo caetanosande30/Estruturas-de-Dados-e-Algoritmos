@@ -23,4 +23,5 @@ Linguagem C
 
 ##Como Executar
 1. Abrir o terminal na pasta do projeto
-2. Compilar o programa: gcc main.c funcoes.c -o programa
+2. Compilar o programa:
+ gcc main.c funcoes.c -o programa
