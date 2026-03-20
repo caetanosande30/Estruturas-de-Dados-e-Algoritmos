@@ -6,6 +6,7 @@
 ##Grupo 8
 - Caetano Sande Domingos Mandala
 - Alberto Lucas Alface
+- Noé Samuel Vilanculos
 - Eduardo Chuva
 
 ##Descrição
