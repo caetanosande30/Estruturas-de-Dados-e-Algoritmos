@@ -1,4 +1,4 @@
-# Exercício 2 – Diferença entre fila e pilha
+# Exercício 2 – Qual e a Diferença entre fila e pilha?
 
 A diferença entre fila e pilha está na forma como os elementos são removidos.
 
