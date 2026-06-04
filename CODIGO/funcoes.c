@@ -60,20 +60,12 @@ void mostrar(Fila* f) {
         return;
     }
 
-    printf("\n--- Fila de Impressão ---\n");
+    printf("\n--- Fila de Impressao ---\n");
     while (temp != NULL) {
         printf("Documento: %s | Prioridade: %s\n",
                temp->nome,
                temp->prioridade == 1 ? "Alta" : "Normal");
         temp = temp->prox;
     }
-}
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include "funcoes.h"
-
-void inicializar(Fila* f) {
-    f->inicio = NULL;
-    f->fim = NULL;
+    printf("\n");
 }
